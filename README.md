@@ -1,1 +1,1 @@
-# odin-landing-page
+This project is a template for a landing page, made to practice CSS.
